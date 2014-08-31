@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="geometry.h" open="1" top="1" tabpos="2">
-		<Cursor position="667" topLine="12" />
+	<File name="geometry.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="77" topLine="138" />
 	</File>
-	<File name="group.h" open="0" top="0" tabpos="2">
-		<Cursor position="369" topLine="18" />
+	<File name="geometry.h" open="1" top="0" tabpos="2">
+		<Cursor position="1076" topLine="38" />
 	</File>
 	<File name="main.cpp" open="1" top="0" tabpos="1">
-		<Cursor position="40" topLine="0" />
-	</File>
-	<File name="rayfileinstance.cpp" open="0" top="0" tabpos="4">
-		<Cursor position="30" topLine="0" />
-	</File>
-	<File name="shape.h" open="0" top="0" tabpos="3">
-		<Cursor position="386" topLine="0" />
+		<Cursor position="166" topLine="0" />
 	</File>
 </CodeBlocks_layout_file>

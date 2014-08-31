@@ -4,9 +4,11 @@
 using namespace std;
 
 int main() {
-    Vector2D p;
-    p[0] = 1;
-    p[1] = 2;
-    p.println();
+    Vector3D p(1, 0, 0);
+    Vector3D q(0, 1, 0);
+    Vector3D r(0, 0, 0);
+    //r = p / q;
+    //r.println();
+
     return 0;
 }

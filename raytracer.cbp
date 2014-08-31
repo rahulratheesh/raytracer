@@ -31,33 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="boundingbox.cpp" />
-		<Unit filename="boundingbox.h" />
-		<Unit filename="cube.cpp" />
-		<Unit filename="cube.h" />
-		<Unit filename="cylinder.cpp" />
-		<Unit filename="cylinder.h" />
 		<Unit filename="geometry.cpp" />
 		<Unit filename="geometry.h" />
-		<Unit filename="group.cpp" />
-		<Unit filename="group.h" />
-		<Unit filename="image.cpp" />
-		<Unit filename="image.h" />
-		<Unit filename="light.cpp" />
-		<Unit filename="light.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="pointlight.cpp" />
-		<Unit filename="pointlight.h" />
-		<Unit filename="ray.cpp" />
-		<Unit filename="ray.h" />
-		<Unit filename="rayfileinstance.cpp" />
-		<Unit filename="rayfileinstance.h" />
-		<Unit filename="scene.cpp" />
-		<Unit filename="scene.h" />
-		<Unit filename="shape.cpp" />
-		<Unit filename="shape.h" />
-		<Unit filename="sphere.cpp" />
-		<Unit filename="sphere.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
